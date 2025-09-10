@@ -1,6 +1,3 @@
-git clone https://github.com/chenzhou2006/chenzhou2006.github.io.git
-cd chenzhou2006.github.io
-# 将您的HTML文件复制到这个文件夹
 git add .
 git commit -m "Initial commit"
 git push origin main
